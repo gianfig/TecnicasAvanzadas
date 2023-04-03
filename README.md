@@ -9,6 +9,8 @@ _Repositorio del software del sistema implementado para el departamento de recur
 * [SQL]([https://support.microsoft.com/es-es/office/access-sql-conceptos-b%C3%A1sicos-vocabulario-y-sintaxis-444d0303-cde1-424e-9a74-e8dc3e460671) - Base de datos
 * [PHP]([https://maven.apache.org/](https://www.php.net/manual/es/intro-whatis.php)) - Lógica base de datos
 * [JS]([https://rometools.github.io/rome/](https://developer.mozilla.org/es/docs/Web/JavaScript)) - Lógica página web
+* [HTML]([https://rometools.github.io/rome/](https://developer.mozilla.org/es/docs/Web/JavaScript)) - Maquetado página web
+* [CSS]([https://rometools.github.io/rome/](https://developer.mozilla.org/es/docs/Web/JavaScript)) - Diseño
 
 ## Autor ✒️
 
