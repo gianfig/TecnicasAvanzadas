@@ -2,7 +2,7 @@
 
 ## Introducción 📦
 
-_Repositorio del software del sistema implementado para el departamento de recursos humanos en la empresa LogicLane_
+_Repositorio del software del sistema implementado para el departamento de recursos humanos en la empresa LogicLane que contiene el código fuente y la documentación del software creado para el departamento de recursos humanos de la empresa. Este repositorio se utiliza para almacenar y gestionar las diversas versiones y actualizaciones del software, lo que facilita la colaboración y el trabajo en equipo de los desarrolladores y usuarios involucrados en el mantenimiento y evolución del sistema. Además, este repositorio ofrece una trazabilidad completa de las modificaciones realizadas en el software, lo que resulta útil para el seguimiento de errores y la identificación de áreas de mejora. En resumen, el repositorio del software del sistema implementado para el departamento de recursos humanos en la empresa LogicLane es una herramienta fundamental para garantizar la eficiencia y la calidad del software utilizado en este departamento clave de la empresa._
 
 ## Construido con 🛠️
 
