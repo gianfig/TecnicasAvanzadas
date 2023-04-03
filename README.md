@@ -17,8 +17,7 @@ _Repositorio del software del sistema implementado para el departamento de recur
 * **Gianfranco Galli** 
 
 
-## ENGLISH 🇺🇸
-## Introduction 📦
+## Introduction ENGLISH 🇺🇸📦
 
 _Repository of the system software implemented for the human resources department in the company LogicLane that contains the source code and documentation of the software created for the company's human resources department. This repository is used to store and manage the various versions and updates of the software, which facilitates the collaboration and teamwork of the developers and users involved in the maintenance and evolution of the system. In addition, this repository offers complete traceability of the modifications made to the software, which is useful for bug tracking and identifying areas for improvement. In summary, the system software repository implemented for the human resources department in the company LogicLane is a fundamental tool to guarantee the efficiency and quality of the software used in this key department of the company._
 
