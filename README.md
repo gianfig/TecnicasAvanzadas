@@ -12,9 +12,6 @@ _Repositorio del software del sistema implementado para el departamento de recur
 * [HTML]([https://rometools.github.io/rome/](https://developer.mozilla.org/es/docs/Web/JavaScript)) - Maquetado página web
 * [CSS]([https://rometools.github.io/rome/](https://developer.mozilla.org/es/docs/Web/JavaScript)) - Diseño
 
-## Autor ✒️
-
-* **Gianfranco Galli** 
 
 
 ## English Introduction 📦
@@ -29,4 +26,6 @@ _Repository of the system software implemented for the human resources departmen
 * [HTML]([https://rometools.github.io/rome/](https://developer.mozilla.org/es/docs/Web/JavaScript)) - Web page layout
 * [CSS]([https://rometools.github.io/rome/](https://developer.mozilla.org/es/docs/Web/JavaScript)) - Design
 
+## Autor/Author ✒️
 
+* **Gianfranco Galli** 
