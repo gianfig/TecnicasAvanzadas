@@ -1,8 +1,8 @@
 ![Blanco Rojo Lila Fondo Abstracto Óleos Artes Cultura y Humanidades Foto de Portada para Recaudación de Fondos para Facebook](https://user-images.githubusercontent.com/103225163/229404472-4ce5f59b-883a-44dc-b30e-3285f69cb3d7.jpg)
 
-## Software Recursos Humanos 📦
+## Introducción 📦
 
-_Archivos del sistema de recursos humanos para la materia Técnicas Avanzadas en la UMET_
+_Repositorio del software del sistema implementado para el departamento de recursos humanos en la empresa LogicLane_
 
 ## Construido con 🛠️
 
